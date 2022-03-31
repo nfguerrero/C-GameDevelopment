@@ -1,0 +1,11 @@
+C:\Users\Nic Fox G\Desktop\Programs\CS437\Reversi\Reversi\Reversi\bin\Debug\netcoreapp2.1\Reversi.deps.json
+C:\Users\Nic Fox G\Desktop\Programs\CS437\Reversi\Reversi\Reversi\bin\Debug\netcoreapp2.1\Reversi.runtimeconfig.json
+C:\Users\Nic Fox G\Desktop\Programs\CS437\Reversi\Reversi\Reversi\bin\Debug\netcoreapp2.1\Reversi.runtimeconfig.dev.json
+C:\Users\Nic Fox G\Desktop\Programs\CS437\Reversi\Reversi\Reversi\bin\Debug\netcoreapp2.1\Reversi.dll
+C:\Users\Nic Fox G\Desktop\Programs\CS437\Reversi\Reversi\Reversi\bin\Debug\netcoreapp2.1\Reversi.pdb
+C:\Users\Nic Fox G\Desktop\Programs\CS437\Reversi\Reversi\Reversi\obj\Debug\netcoreapp2.1\Reversi.csprojAssemblyReference.cache
+C:\Users\Nic Fox G\Desktop\Programs\CS437\Reversi\Reversi\Reversi\obj\Debug\netcoreapp2.1\Reversi.csproj.CoreCompileInputs.cache
+C:\Users\Nic Fox G\Desktop\Programs\CS437\Reversi\Reversi\Reversi\obj\Debug\netcoreapp2.1\Reversi.AssemblyInfoInputs.cache
+C:\Users\Nic Fox G\Desktop\Programs\CS437\Reversi\Reversi\Reversi\obj\Debug\netcoreapp2.1\Reversi.AssemblyInfo.cs
+C:\Users\Nic Fox G\Desktop\Programs\CS437\Reversi\Reversi\Reversi\obj\Debug\netcoreapp2.1\Reversi.dll
+C:\Users\Nic Fox G\Desktop\Programs\CS437\Reversi\Reversi\Reversi\obj\Debug\netcoreapp2.1\Reversi.pdb

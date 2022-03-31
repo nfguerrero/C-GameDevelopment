@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Nic Fox G/Desktop/Programs/CS437/Game1/Game1/Content/ball.png","C:/Users/Nic Fox G/Desktop/Programs/CS437/Game1/Game1/Content/bin/Windows/Content/ball.xnb","TextureProcessor","Texture2DContent",12053,9301,0.493
+"C:/Users/Nic Fox G/Desktop/Programs/CS437/Game1/Game1/Content/colorstrip.png","C:/Users/Nic Fox G/Desktop/Programs/CS437/Game1/Game1/Content/bin/Windows/Content/colorstrip.xnb","TextureProcessor","Texture2DContent",17932,1109,0.007
+"C:/Users/Nic Fox G/Desktop/Programs/CS437/Game1/Game1/Content/posdisplayfont.spritefont","C:/Users/Nic Fox G/Desktop/Programs/CS437/Game1/Game1/Content/bin/Windows/Content/posdisplayfont.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,1.026

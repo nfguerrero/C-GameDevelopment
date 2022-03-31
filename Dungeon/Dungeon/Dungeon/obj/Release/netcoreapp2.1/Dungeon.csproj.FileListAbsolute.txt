@@ -1,0 +1,10 @@
+C:\Users\Nic Fox G\Desktop\Programs\CS437\Dungeon\Dungeon\Dungeon\bin\Release\netcoreapp2.1\Dungeon.deps.json
+C:\Users\Nic Fox G\Desktop\Programs\CS437\Dungeon\Dungeon\Dungeon\bin\Release\netcoreapp2.1\Dungeon.runtimeconfig.json
+C:\Users\Nic Fox G\Desktop\Programs\CS437\Dungeon\Dungeon\Dungeon\bin\Release\netcoreapp2.1\Dungeon.runtimeconfig.dev.json
+C:\Users\Nic Fox G\Desktop\Programs\CS437\Dungeon\Dungeon\Dungeon\bin\Release\netcoreapp2.1\Dungeon.dll
+C:\Users\Nic Fox G\Desktop\Programs\CS437\Dungeon\Dungeon\Dungeon\bin\Release\netcoreapp2.1\Dungeon.pdb
+C:\Users\Nic Fox G\Desktop\Programs\CS437\Dungeon\Dungeon\Dungeon\obj\Release\netcoreapp2.1\Dungeon.csproj.CoreCompileInputs.cache
+C:\Users\Nic Fox G\Desktop\Programs\CS437\Dungeon\Dungeon\Dungeon\obj\Release\netcoreapp2.1\Dungeon.AssemblyInfoInputs.cache
+C:\Users\Nic Fox G\Desktop\Programs\CS437\Dungeon\Dungeon\Dungeon\obj\Release\netcoreapp2.1\Dungeon.AssemblyInfo.cs
+C:\Users\Nic Fox G\Desktop\Programs\CS437\Dungeon\Dungeon\Dungeon\obj\Release\netcoreapp2.1\Dungeon.dll
+C:\Users\Nic Fox G\Desktop\Programs\CS437\Dungeon\Dungeon\Dungeon\obj\Release\netcoreapp2.1\Dungeon.pdb

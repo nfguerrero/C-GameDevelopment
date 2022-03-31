@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceDocker", "SpaceDocker\SpaceDocker.csproj", "{635E35A7-09C4-416C-B709-EBF626277B62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{635E35A7-09C4-416C-B709-EBF626277B62}.Debug|x86.ActiveCfg = Debug|x86
+		{635E35A7-09C4-416C-B709-EBF626277B62}.Debug|x86.Build.0 = Debug|x86
+		{635E35A7-09C4-416C-B709-EBF626277B62}.Release|x86.ActiveCfg = Release|x86
+		{635E35A7-09C4-416C-B709-EBF626277B62}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1E81E88-29AE-4BBE-A281-E7805625368F}
+	EndGlobalSection
+EndGlobal
